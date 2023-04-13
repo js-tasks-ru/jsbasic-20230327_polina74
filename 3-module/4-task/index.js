@@ -1,3 +1,4 @@
+
 function showSalary(users = [], age) {
   let result = users
     .filter(function (item) {

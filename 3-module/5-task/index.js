@@ -20,5 +20,3 @@ function getMinMax(str) {
     max,
   };
 }
-
-
